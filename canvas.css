@@ -1,0 +1,47 @@
+body{
+    margin:0px;
+    padding: 0px;
+    /*text-align: center;*/
+    
+}
+/*canvas{ margin-top: 25px;
+    border:0.5px solid black;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+    border-radius: 20px;
+}
+.container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+#redBtn,#greenBtn,#blueBtn,#drawBtn
+{
+    height: 50px;
+    width:50px;
+    border:0px ;
+    outline: 0px;
+    border-radius:50%;
+    box-shadow:0px 0px 20px rgba(0,0,0,0.5);
+    color: aquamarine;
+}
+#redBtn
+{
+    background-color: red;
+    color:white;
+}#greenBtn
+{
+    background-color: green;
+    color:white;
+}
+#blueBtn
+{
+    background-color: blue;
+    color:white;
+}
+#drawBtn
+{
+    background-color: black;
+color:white;
+}*/
